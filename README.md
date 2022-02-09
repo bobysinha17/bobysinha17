@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobysinha17
+- 👋 Hello World, I'm Boby
 - 👀 I’m interested in Exploring in data, Data Visualization, Machine Learning.
 - 🌱 I’m currently learning Predictive Modelling. 
 - 💞️ I’m looking to collaborate on ...
