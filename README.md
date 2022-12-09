@@ -16,9 +16,11 @@ Data Science Process: 7 Steps
 
 
 - 👀 I’m interested in Exploring in data, Data Visualization, Machine Learning.
-- 🌱 I’m currently learning Predictive Modelling. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AI, ML, DL and DS. 
+- 💞️ I’m looking to collaborate on data related events & conference.
+- 📫 You can reach out to me via :
+      LinkedIn: linkedin.com/in/boby-sinha-
+      Medium : https://medium.com/@bobysinha2383
 
 <!---
 bobysinha17/bobysinha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
