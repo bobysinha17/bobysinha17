@@ -19,7 +19,7 @@ Data Science Process: 7 Steps
 - 🌱 I’m currently learning AI, ML, DL and DS. 
 - 💞️ I’m looking to collaborate on data related events & conference.
 - 📫 You can reach out to me via :
-      LinkedIn: linkedin.com/in/boby-sinha-
+      LinkedIn: https: //linkedin.com/in/boby-sinha-
       Medium : https://medium.com/@bobysinha2383
 
 <!---
