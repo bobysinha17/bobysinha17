@@ -15,8 +15,8 @@ Data Science Process: 7 Steps
 
 
 
-- 👀 I’m interested in Exploring in data, Data Visualization, Machine Learning.
-- 🌱 I’m currently learning AI, ML, DL and DS. 
+- 👀 I’m interested in Exploring in data, Data Visualization, Machine Learning. 
+- 🌱 I’m currently learning AI, ML, DL and DS and Natural Language Processing. 
 - 💞️ I’m looking to collaborate on data related events & conference.
 - 📫 You can reach out to me via :
       LinkedIn: https: //linkedin.com/in/boby-sinha-
