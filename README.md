@@ -1,28 +1,20 @@
-- 👋 Hello World, 
+### Hi there 👋, my name is **Boby Sinha!**
+#### Data Science Professional
+Pursuing PGP in Data Science & Business Analytics from The University of Texas at Austin McCombs School of Business in collaboration with Great Lakes Institute of Management with Great Learning.
 
-This is Boby Sinha pursuing PGP in Data Science & Business Analytics from The University of Texas at Austin McCombs School of Business in colloboration with Great     Lakes Institute of Management with Great Learning.
+In this course I've learned about data, how gather data from different sources, how to analyze data to get useful insights. To get insights we have to do Exploratory Data Analysis (EDA) of the data which basically means to clean the data remove all the duplicates, missing values etc.
 
-In this course I've learned about data, how gather data from different sources, how to analyze data to get useful insights. To get insights we have to do Exploratory Data Analysis (EDA) of the data which basically means to clean the data remove all the duplicates, missing values etc. 
+Skills: Python || Web Development || Machine Learning || Deep Learning || NLP|| Data Visualization || Numpy || Pandas || Seaborn || Matplotlib ||
 
-Data Science Process: 7 Steps
-1. Identifying the problem statement.
-2. Data Acquisition.
-3. Data Preparation.
-4. Model Planning (Regression/Classification).
-5. Model Building
-6. Visualization Communication.
-7. Deployment Maintenance.
+- 🔭 I’m currently working on Building end to end **Data Science Project** 
+- 🌱 I’m currently learning Web Development & Database 
+- 👯 I’m looking to collaborate on AI, ML, DL, DS research paper 
+- 💬 Ask me about ~~Numbers~~ Data, visualization, analytics, cloud 
+- 📫 How to reach me: bobysinha2383@gmail.com 
+- ⚡ Fun fact: 75% of Data Experts use **Python** for **Data Science** Work. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/bobysinha17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/bobysinha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bobysinha2383)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@bobysinha2383)  
 
-- 👀 I’m interested in Exploring in data, Data Visualization, Machine Learning. 
-- 🌱 I’m currently learning AI, ML, DL and DS and Natural Language Processing. 
-- 💞️ I’m looking to collaborate on data related events & conference.
-- 📫 You can reach out to me via :
-      LinkedIn: https: //linkedin.com/in/boby-sinha-
-      Medium : https://medium.com/@bobysinha2383
 
-<!---
-bobysinha17/bobysinha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
