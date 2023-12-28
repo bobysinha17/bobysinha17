@@ -18,4 +18,4 @@ Skills: Python || Web Development || Machine Learning || Deep Learning || NLP|| 
 
 Adding more and more documents related to data and analytics. With the help of Analytics senior leaders can generate more accurate insights to more revenue to the company. 
 
-Data analytics converts raw data into actionable insights. It includes a range of tools,
+Data analytics converts raw data into actionable insights. It includes a range of tools, technologies
